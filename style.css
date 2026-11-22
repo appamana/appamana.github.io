@@ -3,6 +3,9 @@
 --cornsilk: #fefae0ff;
 --papaya-whip: #faedcdff;
 --light-bronze: #d4a373ff;
+--bs-fg-body: light-dark(var(--bs-gray-900), var(--bs-gray-050));
+--bs-bg-body: light-dark(#F9F6DE, #4d2e17);
+
     
     body{margin:20vh 20vw;
          
